@@ -1,0 +1,10 @@
+Create a bash script that does the following while demonstrating use.
+
+Install Wireshark and demonstrate use.
+Install Gephi or any other data science tool and demonstrate use.
+Install Nmap and perform a network mapping with Gephi or any other data science tool captured. Data will come from the initial Wireshark capture.
+Install Vim and demonstrate use.
+Create a Bash script that installs at least 12 programs.
+Create a Bash script that provides the status of the system.
+Create a Bash script that removes at least 6 programs. - not required, advanced completion
+Create a Bash script that allows and if the condition. - not required, advanced completion
